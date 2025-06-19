@@ -1,2 +1,5 @@
-font-family: "Avenir Next";
-font-size: 2em;
+body { 
+  margin: 10em auto;
+  font-family: "Avenir Next";
+  font-size: 2em;
+} 
