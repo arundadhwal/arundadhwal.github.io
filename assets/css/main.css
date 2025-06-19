@@ -4,34 +4,47 @@ body {
   font-family: "Avenir Next";
   font-size: 1em;
   line-height: 1;
-  margin-block: inherit;
+  
 } 
 h1 {
   font-family: "Canela Deck";
   font-size: 2.5em;
+  margin-block-start: 1px;
+  margin-block-end: 1px;
 }
 
 h4 {
   font-family: "Avenir Next";
   font-size: 1em;
   font-weight: 400;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.22em;
+  margin-block-start: 1px;
+  margin-block-end: 1px;
 }
 
 h5 {
   font-size: 1em;
   font-weight: 400;
+  margin-block-start: 1px;
+  margin-block-end: 1px;
 }
 
-p.intro {
-
+.intro {
+margin-block-start: 1px;
+  margin-block-end: 1px;
 }
 
-p.contact ul {
- list-style: none;
+ul {
+  
+ margin-block-start: 1px;
+  margin-block-end: 1px;
+  padding-inline-start: 0px;
 }
 
-p.contact ul li{
- display: inline;
+li{
+  list-style: disc;
+ display: inline-block;
  padding-right: 1em;
+ margin-block-start: 1px;
+  margin-block-end: 1px;
 }
