@@ -6,16 +6,16 @@ body {
 } 
 h1 {
   font-family: "Canela Deck";
-  font-size: 1.25em;
+  font-size: 2.5em;
 }
 
 h4 {
   font-family: "Avenir Next";
-  font-size: 0.5em;
+  font-size: 1em;
 }
 
 h5 {
-  font-size: 0.5em;
+  font-size: 1em;
   font-weight: 400;
 }
 
@@ -24,5 +24,7 @@ p.intro {
 }
 
 p.contact ul li{
- display: inline-block;
+ display: inline;
+ list-style: none;
+ padding-right: 1em;
 }
