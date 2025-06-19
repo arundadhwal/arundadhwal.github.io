@@ -23,8 +23,11 @@ p.intro {
 
 }
 
-p.contact ul li{
- display: inline;
+p.contact ul {
  list-style: none;
+}
+
+p.contact ul li{
+  display: inline;
  padding-right: 1em;
 }
