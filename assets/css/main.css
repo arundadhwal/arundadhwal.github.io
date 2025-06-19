@@ -3,6 +3,7 @@ body {
   margin: 3em auto;
   font-family: "Avenir Next";
   font-size: 1em;
+  line-height: 1;
 } 
 h1 {
   font-family: "Canela Deck";
@@ -12,6 +13,8 @@ h1 {
 h4 {
   font-family: "Avenir Next";
   font-size: 1em;
+  font-weight: 400;
+  letter-spacing: 0.2em;
 }
 
 h5 {
